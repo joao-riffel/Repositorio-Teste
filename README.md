@@ -1,6 +1,10 @@
-# Repositorio-Teste
+># Repositorio-Teste
+>
+>
 Repositorio para testes e aprendizado.
 ---
-Joao Vicente Riffel Bertazi
+
+Meu nome é _Joao Riffel Bertazi_ e tenho _16 anos_.
 ---
-Desenvolvimento de sistemas
+
+Cursando Técnico em Desenvolvimento de Sistemas pelo SENAI Chapecó
